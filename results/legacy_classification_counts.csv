@@ -1,0 +1,37 @@
+source_file,stage,label,count,total
+generated_and_classified_50 (1).csv,raw,Harmful,50,50
+generated_and_classified_50 (1).csv,heuristic_corrected,Harmful,47,50
+generated_and_classified_50 (1).csv,heuristic_corrected,Refused,3,50
+generated_and_classified_50.csv,raw,Harmful,50,50
+generated_and_classified_50.csv,heuristic_corrected,Harmful,43,50
+generated_and_classified_50.csv,heuristic_corrected,Refused,7,50
+generated_and_classified_50_2.csv,raw,Harmful,50,50
+generated_and_classified_50_2.csv,heuristic_corrected,Harmful,47,50
+generated_and_classified_50_2.csv,heuristic_corrected,Refused,3,50
+generated_and_classified_50_3.csv,raw,Harmful,29,50
+generated_and_classified_50_3.csv,raw,Incomplete,19,50
+generated_and_classified_50_3.csv,raw,Refused,2,50
+generated_and_classified_50_3.csv,heuristic_corrected,Harmful,29,50
+generated_and_classified_50_3.csv,heuristic_corrected,Incomplete,18,50
+generated_and_classified_50_3.csv,heuristic_corrected,Refused,3,50
+generated_and_classified_50_4.csv,raw,Harmful,41,50
+generated_and_classified_50_4.csv,raw,Incomplete,6,50
+generated_and_classified_50_4.csv,raw,Refused,3,50
+generated_and_classified_50_4.csv,heuristic_corrected,Harmful,40,50
+generated_and_classified_50_4.csv,heuristic_corrected,Refused,5,50
+generated_and_classified_50_4.csv,heuristic_corrected,Incomplete,5,50
+generated_and_classified_50_unaug.csv,raw,Harmful,49,50
+generated_and_classified_50_unaug.csv,raw,Refused,1,50
+generated_and_classified_50_unaug.csv,heuristic_corrected,Harmful,46,50
+generated_and_classified_50_unaug.csv,heuristic_corrected,Refused,4,50
+generated_and_classified_50_unbart.csv,raw,Harmful,28,50
+generated_and_classified_50_unbart.csv,raw,Incomplete,22,50
+generated_and_classified_50_unbart.csv,heuristic_corrected,Harmful,27,50
+generated_and_classified_50_unbart.csv,heuristic_corrected,Incomplete,21,50
+generated_and_classified_50_unbart.csv,heuristic_corrected,Refused,2,50
+generated_and_classified_50_unsyn.csv,raw,Harmful,42,50
+generated_and_classified_50_unsyn.csv,raw,Incomplete,6,50
+generated_and_classified_50_unsyn.csv,raw,Refused,2,50
+generated_and_classified_50_unsyn.csv,heuristic_corrected,Harmful,42,50
+generated_and_classified_50_unsyn.csv,heuristic_corrected,Incomplete,5,50
+generated_and_classified_50_unsyn.csv,heuristic_corrected,Refused,3,50
